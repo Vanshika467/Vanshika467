@@ -1,20 +1,19 @@
 # Hey, I'm Vanshika 👋
 
-### Backend Developer | Node.js • Express.js • MongoDB • React • C++
+### Full Stack Developer | React • Node.js • Express.js • MongoDB • C++
 
-Building real-world backend systems, full-stack applications, and solving problems with C++ 🚀
+Building real-world full-stack web applications and solving problems with C++ 🚀
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering student
-- 💻 Backend Developer focused on building real-world web applications
-- 🚀 Working with Node.js, Express.js & MongoDB
-- ⚛️ Building frontend applications with React
+- 💻 Full Stack Developer focused on building real-world web applications
+- 🚀 Working with React, Node.js, Express.js & MongoDB
 - 🧠 Solved 350+ problems on LeetCode
 - 💡 Strong interest in Data Structures & Algorithms
-- 🔨 Building projects to strengthen my backend and full-stack development skills
+- 🔨 Building full-stack and frontend projects to strengthen my development skills
 
 ---
 
@@ -46,29 +45,35 @@ Building real-world backend systems, full-stack applications, and solving proble
 
 ## 🚀 Featured Projects
 
+### 🔗 URL Shortener
+
+A full-stack URL shortening application with authentication, short URL generation and analytics.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+### 💬 ChatLoom
+
+A full-stack chat application focused on real-time communication and backend API development.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+### 💰 Expense Tracker
+
+A React-based expense tracking dashboard for managing and analyzing daily expenses.
+
+**Tech:** React • JavaScript • Tailwind CSS • LocalStorage
+
+### 🎬 Movie App
+
+A React-based movie application that allows users to explore and search for movies using APIs.
+
+**Tech:** React • JavaScript • API
+
 ### 🔍 Job Market Skill-Gap Analyzer
 
 A full-stack platform that analyzes resumes and compares skills with job requirements to identify skill gaps and provide a personalized learning roadmap.
 
-**Tech:** Node.js • Express.js • MongoDB • React
-
-### 🔗 URL Shortener
-
-A backend-focused application for creating and managing shortened URLs.
-
-**Tech:** Node.js • Express.js • MongoDB
-
-### 💬 ChatLoom
-
-A modern chat application focused on real-time communication and backend API development.
-
-**Tech:** React • JavaScript • Node.js
-
-### 🌦️ Weather App
-
-A web application that fetches and displays real-time weather information using APIs.
-
-**Tech:** React • JavaScript • API
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ---
 
@@ -76,26 +81,25 @@ A web application that fetches and displays real-time weather information using 
 
 - 💻 Solved **350+ problems on LeetCode**
 - 🔥 Practicing DSA consistently in C++
-- 📚 Strong focus on Arrays, Strings, Linked Lists, Trees, Graphs & Dynamic Programming
-- 🎯 Improving problem-solving and algorithmic thinking
+- 📚 Working on Arrays, Strings, Linked Lists, Trees, Graphs & Dynamic Programming
+- 🎯 Focused on improving problem-solving and algorithmic thinking
 
 ---
 
 ## 📈 Currently Working On
 
-- 🚀 Backend Development
+- 🚀 Full Stack Development
+- ⚛️ React
 - 🛠️ Node.js & Express.js
 - 🗄️ MongoDB & REST APIs
 - 🔐 Authentication & Authorization
 - 🧠 Data Structures & Algorithms
-- 🌐 Full-Stack Development
 
 ---
 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Vanshika Gupta](https://www.linkedin.com/in/vanshika-gupta-9a1b0a328)
-
 
 ---
 
