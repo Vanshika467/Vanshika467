@@ -69,12 +69,6 @@ A React-based movie application that allows users to explore and search for movi
 
 **Tech:** React • JavaScript • API
 
-### 🔍 Job Market Skill-Gap Analyzer
-
-A full-stack platform that analyzes resumes and compares skills with job requirements to identify skill gaps and provide a personalized learning roadmap.
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
 ---
 
 ## 🧠 Data Structures & Algorithms
@@ -88,12 +82,19 @@ A full-stack platform that analyzes resumes and compares skills with job require
 
 ## 📈 Currently Working On
 
+### 🔍 Job Market Skill-Gap Analyzer
+
+Building a full-stack platform that analyzes resumes and compares skills with job requirements to identify skill gaps and generate personalized learning roadmaps.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+### 💻 Improving My Development Skills
+
 - 🚀 Full Stack Development
-- ⚛️ React
-- 🛠️ Node.js & Express.js
-- 🗄️ MongoDB & REST APIs
+- 🛠️ REST APIs & Backend Architecture
 - 🔐 Authentication & Authorization
-- 🧠 Data Structures & Algorithms
+- 🗄️ MongoDB
+- 🧠 Data Structures & Algorithms in C++
 
 ---
 
