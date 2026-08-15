@@ -2,7 +2,7 @@
 
 ### Backend Developer | Node.js • Express.js • MongoDB • React • C++
 
-Building backend systems, full-stack applications, and solving problems with C++ 🚀
+Building real-world backend systems, full-stack applications, and solving problems with C++ 🚀
 
 ---
 
@@ -10,30 +10,35 @@ Building backend systems, full-stack applications, and solving problems with C++
 
 - 🎓 Computer Science Engineering student
 - 💻 Backend Developer focused on building real-world web applications
-- 🚀 Working with Node.js, Express.js and MongoDB
-- ⚛️ Experienced with React for frontend development
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🔨 Building projects to improve my development and problem-solving skills
+- 🚀 Working with Node.js, Express.js & MongoDB
+- ⚛️ Building frontend applications with React
+- 🧠 Solved 350+ problems on LeetCode
+- 💡 Strong interest in Data Structures & Algorithms
+- 🔨 Building projects to strengthen my backend and full-stack development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -42,50 +47,55 @@ Building backend systems, full-stack applications, and solving problems with C++
 ## 🚀 Featured Projects
 
 ### 🔍 Job Market Skill-Gap Analyzer
-A full-stack platform that analyzes resumes and compares skills with job requirements to identify skill gaps and suggest a personalized learning roadmap.
+
+A full-stack platform that analyzes resumes and compares skills with job requirements to identify skill gaps and provide a personalized learning roadmap.
 
 **Tech:** Node.js • Express.js • MongoDB • React
 
 ### 🔗 URL Shortener
-A backend-focused web application for creating and managing shortened URLs.
+
+A backend-focused application for creating and managing shortened URLs.
 
 **Tech:** Node.js • Express.js • MongoDB
 
 ### 💬 ChatLoom
-A real-time communication project focused on building a modern chat experience.
 
-**Tech:** React • JavaScript • Backend APIs
+A modern chat application focused on real-time communication and backend API development.
+
+**Tech:** React • JavaScript • Node.js
 
 ### 🌦️ Weather App
-A weather application that fetches and displays real-time weather information.
+
+A web application that fetches and displays real-time weather information using APIs.
 
 **Tech:** React • JavaScript • API
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 Data Structures & Algorithms
 
-- 💻 Solving problems in C++
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Focusing on problem-solving and algorithmic thinking
-- 🔥 Regularly practicing on LeetCode
+- 💻 Solved **350+ problems on LeetCode**
+- 🔥 Practicing DSA consistently in C++
+- 📚 Strong focus on Arrays, Strings, Linked Lists, Trees, Graphs & Dynamic Programming
+- 🎯 Improving problem-solving and algorithmic thinking
 
 ---
 
 ## 📈 Currently Working On
 
 - 🚀 Backend Development
-- 🛠️ Node.js & Express.js projects
+- 🛠️ Node.js & Express.js
 - 🗄️ MongoDB & REST APIs
-- 🧠 DSA in C++
+- 🔐 Authentication & Authorization
+- 🧠 Data Structures & Algorithms
 - 🌐 Full-Stack Development
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn here](YOUR_LINKEDIN_URL)
-- 📧 Email: [Add your email here](mailto:YOUR_EMAIL)
+- 💼 LinkedIn: [Vanshika Gupta](https://www.linkedin.com/in/vanshika-gupta-9a1b0a328)
+
 
 ---
 
